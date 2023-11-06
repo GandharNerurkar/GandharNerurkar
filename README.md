@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gandhar Nerurkar</h1>
 <h3 align="center">A passionate frontend developer from Goa-India</h3>
-<img align="right" alt="coding-gif" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodepen.io%2Fneogeek%2Ffull%2FVLjJXa&psig=AOvVaw2zwCDK2qwahUIYba1U2Wxm&ust=1699372535223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDU7ZTer4IDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe&psig=AOvVaw2zwCDK2qwahUIYba1U2Wxm&ust=1699372535223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDU7ZTer4IDFQAAAAAdAAAAABAR)">
+<img align="right" alt="coding-gif" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://gandharnerurkar.github.io/](https://gandharnerurkar.github.io/)
