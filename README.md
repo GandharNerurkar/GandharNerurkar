@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gandhar Nerurkar</h1>
 <h3 align="center">A passionate frontend developer from Goa-India</h3>
 <img align="right" alt="coding-gif" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
-- 🌱 I’m currently learning **ReactJs**
+- Javascript, React, Typescript, Next
 
-- 👨‍💻 All of my projects are available at [https://gandharnerurkar.github.io/](https://gandharnerurkar.github.io/)
+- 👨‍💻 All of my projects are available at [https://gandharnerurkar.vercel.app/](https://gandharnerurkar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
