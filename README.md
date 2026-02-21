@@ -3,7 +3,7 @@
 <img align="right" alt="coding-gif" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 - Javascript, React, Typescript, Next
 
-- 👨‍💻 All of my projects are available at [https://gandharnerurkar.vercel.app/](https://gandharnerurkar.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gandharnerurkar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
